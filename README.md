@@ -4,7 +4,7 @@
 This code is the result of following the tutorial found (here)[https://www.youtube.com/watch?v=mPPhcU7oWDU]. In the process of working on this project, I learned about:
 - Spring Boot, how to configure and initialize a Spring Boot project.
 - Creating a mongoDB and mySQL server using Spring Boot.
-- How to get servers to communicate with each other.
+- How to get servers to communicate with each other (both synchronous and asynchronous.
 - Service discovery using Netflix Eureka
 - Using Spring Cloud Gateway to implement an API Gateway
 - How to secure services using Keycloak
