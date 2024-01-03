@@ -8,7 +8,7 @@ This code is the result of following the tutorial found (here)[https://www.youtu
 - Service discovery using Netflix Eureka
 - Using Spring Cloud Gateway to implement an API Gateway
 - How to secure services using Keycloak
-- How to implement a circuit breaker
+- How to implement a circuit breaker (Resilience4j) to improve service resilience
 - Event driven architecture using Kafka
 - How to dockerize the microservices project
 - Using Prometheus and Grafana to monitor the microservices.
