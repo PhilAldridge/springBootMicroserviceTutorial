@@ -14,3 +14,8 @@ This code is the result of following the tutorial found (here)[https://www.youtu
 - Event driven architecture using Kafka
 - How to use Jib to dockerize the whole microservices project and how to compose these docker images together.
 - Using Prometheus and Grafana to monitor the microservices.
+
+## How to run the application using Docker
+
+1. Run `mvn clean package -DskipTests` to build the applications and create the docker image locally.
+2. Run `docker-compose up -d` to start the applications.
