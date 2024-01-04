@@ -12,5 +12,5 @@ This code is the result of following the tutorial found (here)[https://www.youtu
 - How to implement a circuit breaker (Resilience4j) to improve service resilience
 - Use distributed tracing (with Zipkin) so that failed requests are easier to identify and diagnose.
 - Event driven architecture using Kafka
-- How to dockerize the microservices project
+- How to use Jib to dockerize the whole microservices project and how to compose these docker images together.
 - Using Prometheus and Grafana to monitor the microservices.
